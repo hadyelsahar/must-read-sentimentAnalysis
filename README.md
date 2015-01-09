@@ -30,6 +30,7 @@ Book is a thorough literature review in various issues of sentiment analysis, th
 
 ### Datasets:
 
+### People : 
 
 ### Miscellaneous:
 1. [Chris. Manning : deep learning without magic part 1](http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/) : 
@@ -37,7 +38,7 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   - Representing each word by a feature vectors built from words in context
   - Using Deep Neural networks to adapt those feature weights 
   - use those adapted feature vectors in multiple NLP classification problems
-  - the old way : [AL Maas et al. : Learning Word Vectors for Sentiment Analysis](http://delivery.acm.org/10.1145/2010000/2002491/p142-maas.pdf?ip=41.47.2.56&id=2002491&acc=OPEN&key=4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35.6D218144511F3437&CFID=616814785&CFTOKEN=59548436&__acm__=1420792051_5954d0255276523b3ae24e158ee51d1a)
+  - the old way : [AL Maas et al. : Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)
 
 
 -----
