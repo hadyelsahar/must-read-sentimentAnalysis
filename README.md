@@ -1,5 +1,5 @@
 # must-read-sentimentAnalysis
-List of Resources for Sentiment Analysis Researcher Starter
+List of Resources for Sentiment Analysis Starter Researcher 
 
 
 ### Papers:
