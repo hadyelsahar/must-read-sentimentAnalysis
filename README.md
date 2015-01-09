@@ -28,9 +28,13 @@ Book is a thorough literature review in various issues of sentiment analysis, th
 1. [NLP - Stanford] (https://www.coursera.org/course/nlp)
 
 
+
 ### Datasets:
 
 ### People : 
+
+### Glossary :
+[The Natural Language Processing Dictionary](www.cse.unsw.edu.au/~billw/nlpdict.html) : Glossary contains definitions of wide range of used terms in Natural language processing topics, very useful when reading papers.
 
 ### Miscellaneous:
 1. [Chris. Manning : deep learning without magic part 1](http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/) : 
