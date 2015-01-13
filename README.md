@@ -2,8 +2,8 @@
 List of Resources for Sentiment Analysis Starter Researcher 
 
 
-### Papers:
-
+## Papers:
+### Sentiment Classification : 
 1.  [Turney 2002 : Thumbs up or thumbs down?](http://dl.acm.org/citation.cfm?id=1073153)
   - everyone starts withthis paper, probably because it’s the oldest notable work there in sentiment classification,
   turney using two words “excellent” and “poor” and point wise mutual PMI information to do unsupervised sentiment classification 
@@ -16,12 +16,13 @@ cited 3K times also for the same reason above, paper in bullets :
   - compared results to results of features manually selected by two manual annotators 
   - Accuracy of baseline (manual annotated features ~60-70%) 
   - Accuracy of ML ~80-83%
-3. [Martineau, Justin, and Tim Finin. "Delta TFIDF: An Improved Feature Space for Sentiment Analysis." ICWSM. 2009.](http://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewFile/187/504) 
-small very interesting derivative of tf-idf with binary classification, 
-  - delta-tfidf = tfidf(poscorpus) - tfidf(negcorpus) 
-  - based on personal experimentation it boosts the total accuracy by far better than the normal tf-idf
-  - the theory in the paper is only adjusted for binary classification, though it migh be useful also for (positive, mixed, negative) class classification.
 
+### Sentiment Analysis in Arabic Language:
+
+1. [El-Beltagy, Samhaa R., and Ahmed Ali. "Open issues in the sentiment analysis of arabic social media: A case study." Innovations in Information Technology (IIT), 2013 9th International Conference on. IEEE, 2013.](http://tmrg.nileu.edu.eg/resources/publications/Samhaa_OpenIssuesintheSentiment_IIT2013.pdf)
+  - overview of main issues and obstacles in arabic social media sentiment analysis 
+  - semi-automatic generation of ~4k entries egyptian dialect sentiment lexicon (link available in the paper) using  conjunctions 
+  - Evaluation of Generated Lexicon
 
 ### Books:
 
