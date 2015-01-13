@@ -16,6 +16,12 @@ cited 3K times also for the same reason above, paper in bullets :
   - compared results to results of features manually selected by two manual annotators 
   - Accuracy of baseline (manual annotated features ~60-70%) 
   - Accuracy of ML ~80-83%
+3.[Martineau, Justin, and Tim Finin. "Delta TFIDF: An Improved Feature Space for Sentiment Analysis." ICWSM. 2009.](http://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewFile/187/504) 
+small very interesting derivative of tf-idf with binary classification, 
+  - delta-tfidf = tfidf(poscorpus) - tfidf(negcorpus) 
+  - based on personal experimentation it boosts the total accuracy by far better than the normal tf-idf
+  - the theory in the paper is only adjusted for binary classification, though it migh be useful also for (positive, mixed, negative) class classification.
+
 
 ### Books:
 
