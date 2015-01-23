@@ -18,8 +18,10 @@ cited 3K times also for the same reason above, paper in bullets :
   - Accuracy of ML ~80-83%
 
 ### Sentiment Analysis in Arabic Language:
-
-1. [El-Beltagy, Samhaa R., and Ahmed Ali. "Open issues in the sentiment analysis of arabic social media: A case study." Innovations in Information Technology (IIT), 2013 9th International Conference on. IEEE, 2013.](http://tmrg.nileu.edu.eg/resources/publications/Samhaa_OpenIssuesintheSentiment_IIT2013.pdf)
+1. [Abbasi et al. Sentiment Analysis in Multiple Languages: Feature Selection for Opinion Classification in Web Forums](http://128.196.40.18/intranet/papers/AhmedAbbasi_SentimentTOIS.pdf) 
+  - very good categorized literature reviews about common features selected, techniques, domains of use in sentiment analysis
+  - uses Entropy Weighted Genetic Algorithm to do feature selection among each of the previous techniques
+2. [El-Beltagy, Samhaa R., and Ahmed Ali. "Open issues in the sentiment analysis of arabic social media: A case study." Innovations in Information Technology (IIT), 2013 9th International Conference on. IEEE, 2013.](http://tmrg.nileu.edu.eg/resources/publications/Samhaa_OpenIssuesintheSentiment_IIT2013.pdf)
   - overview of main issues and obstacles in arabic social media sentiment analysis 
   - semi-automatic generation of ~4k entries egyptian dialect sentiment lexicon (link available in the paper) using  conjunctions 
   - Evaluation of Generated Lexicon
