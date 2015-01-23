@@ -25,27 +25,49 @@ cited 3K times also for the same reason above, paper in bullets :
   - overview of main issues and obstacles in arabic social media sentiment analysis 
   - semi-automatic generation of ~4k entries egyptian dialect sentiment lexicon (link available in the paper) using  conjunctions 
   - Evaluation of Generated Lexicon
+3. [Abdul-Mageed & Diab. "AWATIF: A Multi-Genre Corpus for Modern Standard Arabic Subjectivity and Sentiment Analysis." LREC. 2012.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.4662&rep=rep1&type=pdf)
+  - Main usefulness : Good regulations for annotating sentiment datasets 
+  - multi-genre annotated corpus of Modern Standard Arabic for SA
+  - built from different resources including Penn Arabic Treebank, Wikipedia Talk Pages and Web forums
+  - manually annotated :
+    - with Guidlines or simple Guidelines
+    - with Trained Annotators/ Crowdsourcing 
+    - elaborate the importance of guidelines and training of annotators to produce dependable annota-tions
+    - dataset not publicly available
 
-### Books:
+## Books:
 
 1.  [Bing Liu : Sentiment Analysis and Opinion Mining ](http://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf) 
 Book is a thorough literature review in various issues of sentiment analysis, this could be nice to get the big picture of sentiment analysis and also to  get related work in any of the issues of sentiment analysis.
 
 
-### Courses:
+## Courses:
 
-1. [NLP - Stanford] (https://www.coursera.org/course/nlp)
+1. [NLP - Stanford,  Dan Jurafsky & Christopher Manning] (https://www.coursera.org/course/nlp)
 
 
+## Datasets:
+### English Datasets : 
+- Pang & LEE movie reviews:
+  - Size : 2K , 1000 positive and 1000 negative
+  - [homepage](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+  - [Paper](http://www.cs.cornell.edu/home/llee/papers/sentiment.pdf)
 
-### Datasets:
 
-### People : 
+### Arabic Datasets :
+- LABR: Large Arabic book database from bookreviews
+  - Size : 36K
+  - [homepage](http://www.mohamedaly.info/datasets/labr)
+  - [Paper](http://www.aclweb.org/anthology/P13-2088)
 
-### Glossary :
+### Arabic Lexicons : 
+
+## People : 
+
+## Glossary :
 [The Natural Language Processing Dictionary](www.cse.unsw.edu.au/~billw/nlpdict.html) : Glossary contains definitions of wide range of used terms in Natural language processing topics, very useful when reading papers.
 
-### Miscellaneous:
+## Miscellaneous:
 1. [Chris. Manning : deep learning without magic part 1](http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/) : 
   main interesting points : 
   - Representing each word by a feature vectors built from words in context
