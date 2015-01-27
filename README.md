@@ -52,7 +52,11 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   - Size : 2K , 1000 positive and 1000 negative
   - [homepage](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
   - [Paper](http://www.cs.cornell.edu/home/llee/papers/sentiment.pdf)
-
+- SNAP - Web data: Amazon reviews
+  -  size : 34,686,770 Reviews 
+  -  [homepage](http://snap.stanford.edu/data/web-Amazon.html)
+  -  [Direct links](http://snap.stanford.edu/data/amazon/)
+  -  [Paper](http://i.stanford.edu/~julian/pdfs/recsys13.pdf)
 
 ### Arabic Datasets :
 - LABR: Large Arabic book database from bookreviews
