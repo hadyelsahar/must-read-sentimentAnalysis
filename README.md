@@ -58,13 +58,15 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   -  [Direct links](http://snap.stanford.edu/data/amazon/)
   -  [Paper](http://i.stanford.edu/~julian/pdfs/recsys13.pdf)
 
-### Arabic Datasets :
+### Arabic Datasets & Lexicons :
 - LABR: Large Arabic book database from bookreviews
   - Size : 36K
   - [homepage](http://www.mohamedaly.info/datasets/labr)
   - [Paper](http://www.aclweb.org/anthology/P13-2088)
 
-### Arabic Lexicons : 
+- Large Arabic Resources for Arabic Sentiment Analysis :
+  - [homepage](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces)
+  - Paper : to be published
 
 ## People : 
 
