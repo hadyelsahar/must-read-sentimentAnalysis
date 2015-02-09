@@ -65,6 +65,10 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   - [Paper](http://www.aclweb.org/anthology/P13-2088)
 
 - Large Arabic Resources for Arabic Sentiment Analysis :
+  - Datasets of 33K reviews in Movies, Hotels, Restaurants, Products domain 
+  - Generated Lexicon of 2K entries in domains of Books, Movies, Hotels, Restaurants and Products
+  - Benchmarking of standard machine learning techniques and feature representation methods over the datasets
+  - Available Code for Experiments as a starter kit for baseline classifiers
   - [homepage](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces)
   - Paper : to be published
 
