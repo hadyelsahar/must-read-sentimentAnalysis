@@ -5,10 +5,9 @@ The list is under continous update.
 ## Papers:
 ### Sentiment Classification : 
 1.  [Turney 2002 : Thumbs up or thumbs down?](http://dl.acm.org/citation.cfm?id=1073153)
-  - everyone starts withthis paper, probably because it’s the oldest notable work there in sentiment classification,
-  turney using two words “excellent” and “poor” and point wise mutual PMI information to do unsupervised sentiment classification 
+  - the oldest notable work in sentiment classification,
+  - turney using two words “excellent” and “poor” and point wise mutual PMI information to do unsupervised sentiment classification 
 2. [Pang, Lee 2002 : Thumbs up?: sentiment classification using machine learning techniques](http://dl.acm.org/citation.cfm?id=1118704)
-cited 3K times also for the same reason above, paper in bullets : 
   - Published a movie reviews dataset that everyone uses until now 
   - used Machine learning classifiers for  3 k-folds crossvalidation
   - features were basic bag of words (unigrams and/or bigrams) word existence, word freq ( no tfidf )
@@ -74,7 +73,7 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   
 - Unweighted Opinion Mining Lexicon
   - An Arabic sentiment Lexicon consisting of 4392 entries mostly of Egyptian dialect (file is .csv, unicode). Compound entries (idioms and expressions are unstemmed). Other entries are prefix stemmed but postfix unstemmed.
-  - [Download[(http://tmrg.nileu.edu.eg/resources/datasets/unWeightedOMLexicon.csv)
+  - [Download](http://tmrg.nileu.edu.eg/resources/datasets/unWeightedOMLexicon.csv)
   - Paper : [El-Beltagy, Samhaa R., and Ahmed Ali. "Open issues in the sentiment analysis of arabic social media: A case study." Innovations in Information Technology (IIT), 2013 9th International Conference on. IEEE, 2013.](http://tmrg.nileu.edu.eg/resources/publications/Samhaa_OpenIssuesintheSentiment_IIT2013.pdf)
 - Arabic Slang Lexicon for Twitter Sentiment Analysis :
   - Lexicon of ~400 terms build automatically from Matching tweets to lexico-syntactic patterns
