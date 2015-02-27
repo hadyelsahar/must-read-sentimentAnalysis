@@ -71,7 +71,6 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   - Available Code for Experiments as a starter kit for baseline classifiers
   - [homepage](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces)
   - Paper : [ElSahar, Hady, and Samhaa R. El-Beltagy. "Building Large Arabic Multi-Domain Resources For Sentiment Analysis." Computational Linguistics and Intelligent Text Processing. Springer Berlin Heidelberg, 2015.](https://www.dropbox.com/s/993lf5jj0oooq4b/Paper%201%20-%20Building%20Large%20Arabic%20Resources%20for%20Sentiment%20Analysis.pdf?dl=0)
-  - 
   
 - Unweighted Opinion Mining Lexicon
   - An Arabic sentiment Lexicon consisting of 4392 entries mostly of Egyptian dialect (file is .csv, unicode). Compound entries (idioms and expressions are unstemmed). Other entries are prefix stemmed but postfix unstemmed.
