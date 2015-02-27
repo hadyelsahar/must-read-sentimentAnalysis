@@ -1,6 +1,6 @@
 # must-read-sentimentAnalysis
-List of Resources for Sentiment Analysis Starter Researcher 
-
+List of Resources for Sentiment Analysis in General and including resources for Arabic Language as well.
+The list is under continous update.
 
 ## Papers:
 ### Sentiment Classification : 
@@ -70,7 +70,18 @@ Book is a thorough literature review in various issues of sentiment analysis, th
   - Benchmarking of standard machine learning techniques and feature representation methods over the datasets
   - Available Code for Experiments as a starter kit for baseline classifiers
   - [homepage](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces)
-  - Paper : to be published
+  - Paper : [ElSahar, Hady, and Samhaa R. El-Beltagy. "Building Large Arabic Multi-Domain Resources For Sentiment Analysis." Computational Linguistics and Intelligent Text Processing. Springer Berlin Heidelberg, 2015.](https://www.dropbox.com/s/993lf5jj0oooq4b/Paper%201%20-%20Building%20Large%20Arabic%20Resources%20for%20Sentiment%20Analysis.pdf?dl=0)
+  - 
+  
+- Unweighted Opinion Mining Lexicon
+  - An Arabic sentiment Lexicon consisting of 4392 entries mostly of Egyptian dialect (file is .csv, unicode). Compound entries (idioms and expressions are unstemmed). Other entries are prefix stemmed but postfix unstemmed.
+  - [Download[(http://tmrg.nileu.edu.eg/resources/datasets/unWeightedOMLexicon.csv)
+  - Paper : [El-Beltagy, Samhaa R., and Ahmed Ali. "Open issues in the sentiment analysis of arabic social media: A case study." Innovations in Information Technology (IIT), 2013 9th International Conference on. IEEE, 2013.](http://tmrg.nileu.edu.eg/resources/publications/Samhaa_OpenIssuesintheSentiment_IIT2013.pdf)
+- Arabic Slang Lexicon for Twitter Sentiment Analysis :
+  - Lexicon of ~400 terms build automatically from Matching tweets to lexico-syntactic patterns
+  - Paper : [ElSahar, Hady, and Samhaa R. El-Beltagy. "A fully automated approach for arabic slang lexicon extraction from microblogs." Computational Linguistics and Intelligent Text Processing. Springer Berlin Heidelberg, 2014. 79-91.](https://www.dropbox.com/s/xbuavbdgok54er1/Elsahar%20Elbeltagy%20automatic%20lexicon%20extraction%20from%20microblogs%20.pdf?dl=0)
+  - [Download](https://github.com/hadyelsahar/must-read-sentimentAnalysis/blob/master/resources/slang-lexicon.csv)
+
 
 ## People : 
 
