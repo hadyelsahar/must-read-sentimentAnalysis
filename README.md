@@ -1,4 +1,4 @@
-# must-read-sentimentAnalysis
+# Must-read-sentiment Analysis
 List of Resources for Sentiment Analysis in General and including resources for Arabic Language as well.
 The list is under continous update.
 
